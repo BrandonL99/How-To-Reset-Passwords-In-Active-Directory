@@ -22,4 +22,6 @@ You should see your domain name, You'll want to right-click on it and left-click
 <br />
 <br />
 This will bring up a box allowing you to search for the name of the person you are trying to change the name of. Under the name collum, type in the name and it will show up in the search results. Right-click and go to reset password.
+<br />
+<br />
 <img src="https://i.imgur.com/Vc1x55w.png" height="80%" width="80%" alt=""/>
